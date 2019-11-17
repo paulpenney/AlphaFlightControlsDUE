@@ -9,4 +9,11 @@ I'm going to try and explain this as well as I can for someone who has never use
 
 ### Installing Arduino Software
 
+1) Download the Arduino IDE from here: https://www.arduino.cc/en/Main/Software
+2) Install Arduino 
+3) Click the "Clone or Download" green button at the top right of this page and download this repository.
+4) Install the "Joystick" library by unzipping it's contents to "YOUR USER ACCOUNT\Documents\Arduino\libraries"
 
+### Preparing To Flash
+
+5) 
